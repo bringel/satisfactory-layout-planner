@@ -6,9 +6,10 @@
     <svg width="100%" height="100%">
       <GridBackground :grid-size="128" :sub-grid-lines="4" grid-style="line" />
     </svg>
-    <div class="border-l border-gray-700"></div>
+    <BuildablePalette />
   </div>
 </template>
 <script setup lang="ts">
 import GridBackground from './components/GridBackground.vue';
+import BuildablePalette from './components/BuildablePalette.vue';
 </script>

@@ -1,0 +1,79 @@
+{
+  "constructor": {
+    "name": "Constructor",
+    "width": 8,
+    "length": 10,
+    "selector": "#constructor",
+    "imagePath": "Constructor.png"
+  },
+  "assembler": {
+    "name": "Assembler",
+    "width": 9,
+    "length": 16,
+    "selector": "#assembler",
+    "imagePath": "Assembler.png"
+  },
+  "manufacturer": {
+    "name": "Manufacturer",
+    "width": 18,
+    "length": 20,
+    "selector": "#manufacturer",
+    "imagePath": "Manufacturer.png"
+  },
+  "splitter": {
+    "name": "Splitter",
+    "width": 4,
+    "length": 4,
+    "selector": "#splitter",
+    "imagePath": "Conveyor_Splitter.png"
+  },
+  "merger": {
+    "name": "Merger",
+    "width": 4,
+    "length": 4,
+    "selector": "#merger",
+    "imagePath": "Conveyor_Merger.png"
+  },
+  "conveyorLift": {
+    "name": "Conveyor Lift",
+    "width": 2,
+    "length": 3,
+    "selector": "#conveyor-lift",
+    "imagePath": "Conveyor_Lift_Mk.1.png"
+  },
+  "smelter": {
+    "name": "Smelter",
+    "width": 5,
+    "length": 10,
+    "selector": "#smelter",
+    "imagePath": "Smelter.png"
+  },
+  "foundry": {
+    "name": "Foundry",
+    "width": 10,
+    "length": 9,
+    "selector": "#foundry",
+    "imagePath": "Foundry.png"
+  },
+  "biomassBurner": {
+    "name": "Biomass Burner",
+    "width": 8,
+    "length": 8,
+    "selector": "#biomass-burner",
+    "imagePath": "Biomass_Burner.png"
+  },
+  "coalGenerator": {
+    "name": "Coal Generator",
+    "width": 10,
+    "length": 26,
+    "selector": "#coal-generator",
+    "imagePath": "Coal-Powered_Generator.png"
+  },
+  "fuelGenerator": {
+    "name": "Fuel Generator",
+    "width": 20,
+    "length": 20,
+    "selector": "#fuel-generator",
+    "imagePath": "Fuel-Powered_Generator.png"
+  }
+}
